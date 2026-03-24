@@ -1,177 +1,124 @@
-# 👨‍💻 Hazem Babiker — Full Stack Developer
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hazem%20Babiker&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Pragmatic%20Engineer&descAlignY=55&descSize=20&animation=twinkling" alt="Header" />
+</div>
 
---- 
-
-## مرحباً بك في ملفي الشخصي على GitHub! 👋
-
-أنا حازم بابكر، مطور Full Stack متخصص في بناء أنظمة الويب المتكاملة من الفكرة إلى الإنتاج. أركز بشكل خاص على **الأداء العالي**، **تجربة المستخدم السلسة (UX)**، و**قابلية التوسع**، مع خبرة واسعة في تطوير منصات حقيقية موجهة للسوق، خاصة في البيئة العربية مع دعم كامل للغة العربية (RTL).
-
-## Welcome to My GitHub Profile! 👋
-
-I'm Hazem Babiker, a Full Stack Developer specializing in building end-to-end web systems from concept to production. My focus is on **high performance**, **seamless user experience (UX)**, and **scalability**. I have extensive experience in developing real-world market-oriented platforms, particularly in the Arabic environment with full RTL support.
-
----
-
-## 🚀 عني | About Me
-
-أنا مطور عملي (Pragmatic Developer)، لا أركز فقط على كتابة الكود، بل على بناء أنظمة تعمل فعلياً وتُستخدم. أهتم بـ:
-
-*   بناء حلول كاملة (End-to-End Systems)
-*   تجربة المستخدم (UI/UX) بشكل حقيقي وليس شكلي
-*   الأداء والاستقرار خصوصاً في الأنظمة Offline و PWA
-*   استخدام أدوات الذكاء الاصطناعي لتسريع الإنتاج
-
-I am a Pragmatic Developer, focused not just on writing code, but on building systems that actually work and are used. I am passionate about:
-
-*   Building End-to-End Systems
-*   Real-world UI/UX, not just superficial design
-*   Performance and stability, especially in Offline and PWA systems
-*   Utilizing AI tools to accelerate production
-
----
-
-## 🧠 المهارات التقنية | Technical Stack
+<h1 align="center">Hi there, I'm Hazem! 👋 | مرحباً، أنا حازم!</h1>
 
 <p align="center">
+  <em>Architecting robust, scalable, and offline-first web systems. Turning complex problems into elegant solutions.</em><br>
+  <em>أبني أنظمة ويب قوية، قابلة للتوسع، وتعمل بكفاءة حتى بدون إنترنت. أحول المشاكل المعقدة إلى حلول أنيقة.</em>
+</p>
+
+<p align="center">
+  <a href="https://sd.linkedin.com/in/hazem-babiker-4621a9345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hazem-babiker.vercel.app"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://wa.me/+249925385818"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.facebook.com/hazem78389"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/hazem_babiker_algiely"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<br>
+
+## 🚀 The Pragmatic Developer | المطور العملي
+
+I don't just write code; I build **End-to-End Systems** that deliver real business value. My philosophy is rooted in delivering high-performance, user-centric applications that solve actual market problems, particularly in the MENA region with flawless RTL support.
+
+أنا لا أكتب الكود فحسب؛ بل أبني **أنظمة متكاملة** تقدم قيمة حقيقية للأعمال. فلسفتي تعتمد على تقديم تطبيقات عالية الأداء تركز على المستخدم وتحل مشاكل السوق الفعلية، خاصة في المنطقة العربية مع دعم مثالي للغة العربية (RTL).
+
+### 💎 Core Competencies | الكفاءات الأساسية
+
+*   **End-to-End Architecture:** From database design to frontend micro-interactions. | بناء الأنظمة من تصميم قواعد البيانات إلى أدق تفاصيل واجهة المستخدم.
+*   **Offline-First & PWA:** Building resilient systems using IndexedDB that survive network drops. | بناء أنظمة قوية باستخدام IndexedDB تعمل بكفاءة حتى عند انقطاع الإنترنت.
+*   **AI-Driven Development:** Leveraging AI tools for rapid prototyping, code generation, and productivity. | استخدام أدوات الذكاء الاصطناعي لتسريع الإنتاج وتوليد الكود.
+*   **UX Obsession:** Clean UI, dark themes, smooth transitions, and usability-first design. | هوس بتجربة المستخدم: واجهات نظيفة، ألوان مريحة، وانتقالات سلسة.
+
+---
+
+## 🛠️ Tech Arsenal | الترسانة التقنية
+
+<div align="center">
+  <h3>Frontend & UI/UX</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" alt="Frontend Skills" />
   </a>
-</p>
+  
+  <h3>Backend & Database</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase" alt="Backend Skills" />
+  </a>
 
-**Frontend:**
-*   HTML5
-*   CSS3 (Animations, Responsive Design, RTL Support)
-*   JavaScript (ES6+)
-*   React.js
-
-**Backend:**
-*   PHP (Laravel Framework)
-*   REST APIs
-
-**Database:**
-*   MySQL
-*   IndexedDB (للأنظمة Offline | For Offline Systems)
-
-**Other Tools:**
-*   Supabase
-*   PWA (Progressive Web Apps)
-*   Git & GitHub
-*   Figma (UI/UX Design Systems)
+  <h3>Tools & Architecture</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  </a>
+</div>
 
 ---
 
-## 🏗️ ما أقوم ببنائه | What I Build
+## 🏗️ What I Build | ما أقوم ببنائه
 
-**🔹 أنظمة كاملة | Full Systems:**
-*   منصات تعليمية (مثل مشروع "الأوائل") | Educational Platforms (e.g., "Al-Awael" project)
-*   أنظمة إدارة (عيادات، صيدليات، مدارس) | Management Systems (Clinics, Pharmacies, Schools)
-*   Dashboards متعددة الصلاحيات (Admin / User / Manager) | Multi-privilege Dashboards (Admin / User / Manager)
-
-**🔹 ميزات متقدمة | Advanced Features:**
-*   Offline-first systems باستخدام IndexedDB | Offline-first systems using IndexedDB
-*   Wallet & Payment Systems
-*   Referral Systems
-*   Multi-language (Arabic / English)
-*   RTL كامل بدون مشاكل | Full RTL support without issues
-*   Real-time UX improvements
-
----
-
-## 🎯 التركيز الحالي | Current Focus
-
-*   بناء منصة تعليمية متكاملة للسوق السوداني | Building a comprehensive educational platform for the Sudanese market
-*   تطوير أنظمة Offline قوية بدون فقدان بيانات | Developing robust Offline systems without data loss
-*   تحسين تجربة المستخدم باستخدام Animations + Micro-interactions | Enhancing user experience with Animations + Micro-interactions
-*   استخدام AI Tools في: | Utilizing AI Tools in:
-    *   التصميم | Design
-    *   توليد الكود | Code Generation
-    *   تحسين الإنتاجية | Productivity Enhancement
-
----
-
-## 🎨 فلسفة واجهة المستخدم وتجربة المستخدم | UI/UX Philosophy
-
-أنا لا أتعامل مع التصميم كـ "شكل"، بل كـ تجربة كاملة:
-
-*   تصميم نظيف (Clean UI) | Clean UI
-*   ألوان مريحة (خصوصاً Dark Theme) | Comfortable Colors (especially Dark Theme)
-*   انتقالات سلسة (Smooth Transitions) | Smooth Transitions
-*   تركيز على سهولة الاستخدام (Usability First) | Usability First
-
-I don't treat design as merely "looks," but as a complete experience:
-
-*   Clean UI
-*   Comfortable Colors (especially Dark Theme)
-*   Smooth Transitions
-*   Usability First
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎓 Educational Platforms | منصات تعليمية</h3>
+      <p>Comprehensive systems like the "Al-Awael" project, featuring multi-role dashboards (Admin/Teacher/Student), payment gateways, and real-time progress tracking.</p>
+      <p>أنظمة شاملة مثل مشروع "الأوائل"، تتميز بلوحات تحكم متعددة الصلاحيات، بوابات دفع، وتتبع التقدم في الوقت الفعلي.</p>
+    </td>
+    <td width="50%">
+      <h3>🏥 Management Systems | أنظمة الإدارة</h3>
+      <p>Robust ERP-like solutions for clinics, pharmacies, and schools, focusing on data integrity, offline capabilities, and seamless synchronization.</p>
+      <p>حلول قوية لإدارة العيادات، الصيدليات، والمدارس، مع التركيز على سلامة البيانات، العمل بدون إنترنت، والمزامنة السلسة.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Advanced Features | ميزات متقدمة</h3>
+      <ul>
+        <li>Offline-first architecture (IndexedDB)</li>
+        <li>Wallet & Referral Systems</li>
+        <li>Flawless Bilingual (RTL/LTR) Support</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎯 Current Focus | التركيز الحالي</h3>
+      <ul>
+        <li>AI Integration in Full Stack Apps</li>
+        <li>Zero Data-Loss Offline Systems</li>
+        <li>Micro-interactions & Animations</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## ⚠️ نقاط القوة الحقيقية | Real Strengths
+## 📊 GitHub Analytics | إحصائيات GitHub
 
-*   القدرة على تحويل فكرة → نظام كامل | Ability to transform an idea → into a complete system
-*   العمل على مشاريع حقيقية وليس مجرد تجارب | Working on real projects, not just experiments
-*   فهم عميق لمشاكل الأنظمة (خصوصاً Offline & Data Sync) | Deep understanding of system issues (especially Offline & Data Sync)
-*   بناء قواعد بيانات منظمة وقابلة للتوسع | Building organized and scalable databases
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hazemforbusinesss-cyber&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Hazem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemforbusinesss-cyber&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="Hazem's GitHub Streak" width="48%" />
+</div>
 
----
+<br>
 
-## 📉 جوانب أعمل على تحسينها باستمرار | Things I Keep Improving
-
-*   تحسين كتابة الكود ليكون أكثر قابلية للصيانة (Clean Code) | Improving code readability for better maintainability (Clean Code)
-*   التعمق أكثر في Architecture (System Design) | Deeper dive into Architecture (System Design)
-*   تحسين الأداء في التطبيقات الكبيرة | Enhancing performance in large-scale applications
-
----
-
-## 💡 العقلية | Mindset
-
-*   لا أبحث عن الكمال، أبحث عن النتيجة | I don't seek perfection, I seek results
-*   أتعلم بسرعة من المشاكل الحقيقية | I learn quickly from real-world problems
-*   أفضّل الحلول البسيطة التي تعمل على الحلول المعقدة غير المستقرة | I prefer simple, working solutions over complex, unstable ones
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemforbusinesss-cyber&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Hazem's Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hazemforbusinesss-cyber&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Hazem's Trophies" width="48%" />
+</div>
 
 ---
 
-## 📌 مشاريع أعمل عليها حالياً | Current Projects
+## 💡 The Mindset | العقلية
 
-*   منصة تعليمية متكاملة (Full Stack + AI Integration) | Comprehensive Educational Platform (Full Stack + AI Integration)
-*   نظام إدارة عيادة مع صيدلية مدمجة | Clinic Management System with integrated Pharmacy
-*   أنظمة PWA تعمل Offline بالكامل | Fully Offline PWA Systems
+> *"I don't seek perfection; I seek results. I prefer simple, working solutions over complex, unstable ones."*
+> 
+> *"لا أبحث عن الكمال، أبحث عن النتيجة. أفضّل الحلول البسيطة التي تعمل على الحلول المعقدة غير المستقرة."*
 
----
+**Why work with me? | لماذا تعمل معي؟**
+If you need someone who understands the entire lifecycle of a product, anticipates real-world edge cases (like poor connectivity), and doesn't waste time on trivial details—you're in the right place.
 
-## 📊 إحصائيات GitHub | GitHub Stats
+إذا كنت تبحث عن شخص يفهم دورة حياة المنتج بالكامل، يتوقع المشاكل الحقيقية (مثل ضعف الاتصال بالإنترنت)، ولا يضيع الوقت في التفاصيل غير المهمة—فأنت في المكان الصحيح.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazemforbusinesss-cyber&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en" alt="Hazem's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemforbusinesss-cyber&theme=dark&hide_border=true&locale=en" alt="Hazem's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemforbusinesss-cyber&layout=compact&theme=dark&hide_border=true&locale=en" alt="Hazem's Top Languages" />
-</p>
-
----
-
-## 📫 تواصل معي | Contact Me
-
-جاهز للعمل على مشاريع حقيقية أو تطوير أنظمة متقدمة. لا تتردد في التواصل!
-
-Ready to work on real projects or develop advanced systems. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.facebook.com/hazem78389" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/hazem_babiker_algiely" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://sd.linkedin.com/in/hazem-babiker-4621a9345" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://hazem-babiker.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
-  <a href="https://wa.me/+249925385818" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
-</p>
-
----
-
-## ⭐ ملاحظة أخيرة | Final Note
-
-إذا كنت تبحث عن شخص:
-
-*   يبني النظام كامل | Builds the complete system
-*   يفهم المشاكل الحقيقية | Understands real-world problems
-*   لا يضيع الوقت في التفاصيل غير المهمة | Doesn't waste time on trivial details
-
-فأنت في المكان الصحيح. | You are in the right place.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+</div>
