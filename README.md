@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hazem%20Babiker&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Pragmatic%20Engineer&descAlignY=55&descSize=20&animation=twinkling" alt="Header" />
+  <img src="./assets/hazem.png" alt="Hazem Babiker" width="200" style="border-radius:50%;"/>
 </div>
 
-<h1 align="center">Hi there, I'm Hazem! 👋 | مرحباً، أنا حازم!</h1>
+<h1 align="center">Hazem Babiker | حازم بابكر</h1>
+<h3 align="center">Full Stack Engineer | مهندس Full Stack</h3>
 
 <p align="center">
-  <em>Architecting robust, scalable, and offline-first web systems. Turning complex problems into elegant solutions.</em><br>
-  <em>أبني أنظمة ويب قوية، قابلة للتوسع، وتعمل بكفاءة حتى بدون إنترنت. أحول المشاكل المعقدة إلى حلول أنيقة.</em>
+  <em>Architecting and implementing robust, scalable, and resilient web solutions with a deep focus on performance, user experience, and maintainability.</em><br>
+  <em>تصميم وتطبيق حلول ويب قوية، قابلة للتوسع، ومرنة مع تركيز عميق على الأداء، تجربة المستخدم، وسهولة الصيانة.</em>
 </p>
 
 <p align="center">
@@ -17,37 +18,37 @@
   <a href="https://www.instagram.com/hazem_babiker_algiely"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<br>
+---
 
-## 🚀 The Pragmatic Developer | المطور العملي
+## ⚙️ Engineering Philosophy | فلسفة الهندسة البرمجية
 
-I don't just write code; I build **End-to-End Systems** that deliver real business value. My philosophy is rooted in delivering high-performance, user-centric applications that solve actual market problems, particularly in the MENA region with flawless RTL support.
+My approach to software development is centered on building **production-ready, end-to-end systems** that address complex challenges with elegant and efficient solutions. I prioritize architectural soundness, data integrity, and a seamless user experience, especially in environments with intermittent connectivity and diverse linguistic requirements (RTL/LTR).
 
-أنا لا أكتب الكود فحسب؛ بل أبني **أنظمة متكاملة** تقدم قيمة حقيقية للأعمال. فلسفتي تعتمد على تقديم تطبيقات عالية الأداء تركز على المستخدم وتحل مشاكل السوق الفعلية، خاصة في المنطقة العربية مع دعم مثالي للغة العربية (RTL).
+تتمحور مقاربتي لتطوير البرمجيات حول بناء **أنظمة متكاملة جاهزة للإنتاج** تعالج التحديات المعقدة بحلول أنيقة وفعالة. أولي الأولوية لسلامة البنية المعمارية، تكامل البيانات، وتجربة مستخدم سلسة، خاصة في البيئات ذات الاتصال المتقطع والمتطلبات اللغوية المتنوعة (RTL/LTR).
 
-### 💎 Core Competencies | الكفاءات الأساسية
+### Key Engineering Principles | مبادئ هندسية أساسية:
 
-*   **End-to-End Architecture:** From database design to frontend micro-interactions. | بناء الأنظمة من تصميم قواعد البيانات إلى أدق تفاصيل واجهة المستخدم.
-*   **Offline-First & PWA:** Building resilient systems using IndexedDB that survive network drops. | بناء أنظمة قوية باستخدام IndexedDB تعمل بكفاءة حتى عند انقطاع الإنترنت.
-*   **AI-Driven Development:** Leveraging AI tools for rapid prototyping, code generation, and productivity. | استخدام أدوات الذكاء الاصطناعي لتسريع الإنتاج وتوليد الكود.
-*   **UX Obsession:** Clean UI, dark themes, smooth transitions, and usability-first design. | هوس بتجربة المستخدم: واجهات نظيفة، ألوان مريحة، وانتقالات سلسة.
+*   **System Resilience**: Designing for fault tolerance and graceful degradation, particularly for offline operations.
+*   **Scalability & Performance**: Implementing optimized data structures, efficient algorithms, and robust caching strategies.
+*   **User-Centric Design**: Translating complex requirements into intuitive interfaces with a focus on accessibility and responsiveness.
+*   **Maintainability & Extensibility**: Writing clean, well-documented code with modular architectures to facilitate future enhancements.
 
 ---
 
-## 🛠️ Tech Arsenal | الترسانة التقنية
+## 💻 Technical Stack | المكدس التقني
 
 <div align="center">
-  <h3>Frontend & UI/UX</h3>
+  <h3>Frontend & UI/UX Engineering</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" alt="Frontend Skills" />
   </a>
   
-  <h3>Backend & Database</h3>
+  <h3>Backend & Data Management</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,supabase" alt="Backend Skills" />
   </a>
 
-  <h3>Tools & Architecture</h3>
+  <h3>Development & Deployment Tools</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
   </a>
@@ -55,44 +56,67 @@ I don't just write code; I build **End-to-End Systems** that deliver real busine
 
 ---
 
-## 🏗️ What I Build | ما أقوم ببنائه
+## 🏗️ Core Engineering Domains | مجالات الهندسة الأساسية
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Educational Platforms | منصات تعليمية</h3>
-      <p>Comprehensive systems like the "Al-Awael" project, featuring multi-role dashboards (Admin/Teacher/Student), payment gateways, and real-time progress tracking.</p>
-      <p>أنظمة شاملة مثل مشروع "الأوائل"، تتميز بلوحات تحكم متعددة الصلاحيات، بوابات دفع، وتتبع التقدم في الوقت الفعلي.</p>
-    </td>
-    <td width="50%">
-      <h3>🏥 Management Systems | أنظمة الإدارة</h3>
-      <p>Robust ERP-like solutions for clinics, pharmacies, and schools, focusing on data integrity, offline capabilities, and seamless synchronization.</p>
-      <p>حلول قوية لإدارة العيادات، الصيدليات، والمدارس، مع التركيز على سلامة البيانات، العمل بدون إنترنت، والمزامنة السلسة.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Advanced Features | ميزات متقدمة</h3>
-      <ul>
-        <li>Offline-first architecture (IndexedDB)</li>
-        <li>Wallet & Referral Systems</li>
-        <li>Flawless Bilingual (RTL/LTR) Support</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎯 Current Focus | التركيز الحالي</h3>
-      <ul>
-        <li>AI Integration in Full Stack Apps</li>
-        <li>Zero Data-Loss Offline Systems</li>
-        <li>Micro-interactions & Animations</li>
-      </ul>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Domain | المجال</th>
+      <th>Technical Focus | التركيز التقني</th>
+      <th>Key Features & Implementations | الميزات والتطبيقات الرئيسية</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>**Offline-First & PWA Systems**</td>
+      <td>Data Synchronization, Conflict Resolution, IndexedDB Management, Service Workers</td>
+      <td>
+        <ul>
+          <li>Robust data persistence and synchronization mechanisms for intermittent connectivity.</li>
+          <li>Implementation of Progressive Web App (PWA) features for enhanced user experience and reliability.</li>
+          <li>Strategies for managing large datasets within IndexedDB and ensuring data integrity.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>**Scalable Web Platforms**</td>
+      <td>Multi-tenant Architectures, RESTful API Design, Database Optimization, Load Balancing Considerations</td>
+      <td>
+        <ul>
+          <li>Development of modular and extensible web applications capable of handling high user loads.</li>
+          <li>Designing efficient and secure RESTful APIs for seamless frontend-backend communication.</li>
+          <li>Optimizing MySQL databases for performance and scalability, including indexing and query tuning.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>**Bilingual & RTL Support**</td>
+      <td>Internationalization (i18n), Localization (l10n), CSS-based RTL Styling, Font Rendering Optimization</td>
+      <td>
+        <ul>
+          <li>Implementing comprehensive multi-language support (Arabic/English) with dynamic content switching.</li>
+          <li>Ensuring pixel-perfect Right-to-Left (RTL) layout and styling across all UI components.</li>
+          <li>Addressing font rendering and text display challenges for diverse character sets.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>**AI-Assisted Development**</td>
+      <td>Code Generation, Design Prototyping, Productivity Enhancement, Workflow Automation</td>
+      <td>
+        <ul>
+          <li>Leveraging AI tools to accelerate development cycles and reduce boilerplate code.</li>
+          <li>Utilizing AI for rapid UI/UX prototyping and design system generation.</li>
+          <li>Integrating AI into development workflows to enhance code quality and efficiency.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## 📊 GitHub Analytics | إحصائيات GitHub
+## 📈 GitHub Analytics | إحصائيات GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazemforbusinesss-cyber&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Hazem's GitHub Stats" width="48%" />
@@ -108,16 +132,31 @@ I don't just write code; I build **End-to-End Systems** that deliver real busine
 
 ---
 
-## 💡 The Mindset | العقلية
+## 🧠 Continuous Learning & Growth | التعلم المستمر والتطور
 
-> *"I don't seek perfection; I seek results. I prefer simple, working solutions over complex, unstable ones."*
-> 
-> *"لا أبحث عن الكمال، أبحث عن النتيجة. أفضّل الحلول البسيطة التي تعمل على الحلول المعقدة غير المستقرة."*
+My journey as an engineer is defined by a commitment to continuous learning and adaptation. I actively explore new architectural patterns, delve into advanced data management techniques, and refine my understanding of system design to tackle increasingly complex challenges.
 
-**Why work with me? | لماذا تعمل معي؟**
-If you need someone who understands the entire lifecycle of a product, anticipates real-world edge cases (like poor connectivity), and doesn't waste time on trivial details—you're in the right place.
+تتحدد رحلتي كمهندس بالالتزام بالتعلم المستمر والتكيف. أستكشف بنشاط أنماط معمارية جديدة، أتعمق في تقنيات إدارة البيانات المتقدمة، وأصقل فهمي لتصميم الأنظمة لمعالجة التحديات الأكثر تعقيدًا.
 
-إذا كنت تبحث عن شخص يفهم دورة حياة المنتج بالكامل، يتوقع المشاكل الحقيقية (مثل ضعف الاتصال بالإنترنت)، ولا يضيع الوقت في التفاصيل غير المهمة—فأنت في المكان الصحيح.
+### Current Learning Trajectories | مسارات التعلم الحالية:
+
+*   **Advanced System Design**: Focusing on distributed systems, microservices, and event-driven architectures.
+*   **Performance Optimization**: Deep dive into Web Vitals, critical rendering path, and backend query optimization.
+*   **Security Best Practices**: Exploring OWASP Top 10 mitigations and secure coding principles.
+
+---
+
+## ✉️ Connect | تواصل
+
+I am open to collaborating on challenging engineering projects and contributing to innovative solutions. Feel free to connect for technical discussions or potential opportunities.
+
+أنا منفتح للتعاون في المشاريع الهندسية الصعبة والمساهمة في الحلول المبتكرة. لا تتردد في التواصل للمناقشات التقنية أو الفرص المحتملة.
+
+<p align="center">
+  <a href="https://sd.linkedin.com/in/hazem-babiker-4621a9345" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hazem-babiker.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://wa.me/+249925385818" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
