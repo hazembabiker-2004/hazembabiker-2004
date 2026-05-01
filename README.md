@@ -46,15 +46,19 @@ My approach to software development is centered on building **production-ready, 
 ## 📈 GitHub Analytics | إحصائيات GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazembabiker-2004&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazembabiker-2004&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Stats with Green/Dark Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hazembabiker-2004&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <!-- Streak Stats with Green/Dark Theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazembabiker-2004&hide_border=true&background=0D1117&ring=2ea44f&fire=2ea44f&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazembabiker-2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hazembabiker-2004&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" width="48%" />
+  <!-- Top Languages with Green/Dark Theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazembabiker-2004&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ea44f&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <!-- Trophies with Green Theme -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hazembabiker-2004&theme=github&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" width="48%" />
 </div>
 
 ---
@@ -68,5 +72,5 @@ My approach to software development is centered on building **production-ready, 
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ea44f&height=100&section=footer" alt="Footer" />
 </div>
