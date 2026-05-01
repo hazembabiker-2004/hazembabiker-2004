@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
   <img src="./assets/hazem.png" alt="Hazem Babiker" width="200" style="border-radius:50%;"/>
 </div>
@@ -119,14 +120,14 @@ My approach to software development is centered on building **production-ready, 
 ## 📈 GitHub Analytics | إحصائيات GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazembabiker-2004&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Hazem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazembabiker-2004&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" alt="Hazem's GitHub Streak" width="48%" />
+  <img src="./stats/github-stats.svg" alt="Hazem's GitHub Stats" width="48%" />
+  <img src="./stats/github-streak-stats.svg" alt="Hazem's GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazembabiker-2004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Hazem's Top Languages" width="48%" />
+  <img src="./stats/top-langs.svg" alt="Hazem's Top Languages" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=hazembabiker-2004&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Hazem's Trophies" width="48%" />
 </div>
 
@@ -161,3 +162,4 @@ I am open to collaborating on challenging engineering projects and contributing 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
+```
