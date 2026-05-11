@@ -47,7 +47,7 @@ My approach to software development is centered on building **production-ready, 
 
 <div align="center">
   <!-- GitHub Stats with Green/Dark Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hazembabiker-2004&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2ea44f&icon_color=2ea44f&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazembabiker-2004&bg_color=0D1117&color=c9d1d9&line=2ea44f&point=2ea44f&area=true&hide_border=true" alt="GitHub Activity Graph" width="48%" />
   <!-- Streak Stats with Green/Dark Theme -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazembabiker-2004&hide_border=true&background=0D1117&ring=2ea44f&fire=2ea44f&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
 </div>
